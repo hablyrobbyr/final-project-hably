@@ -1,0 +1,33 @@
+.form-container {
+  width: 500px;
+  margin-left: 50px;
+}
+
+.nav {
+  background-color: gray;
+}
+
+.meetup-card,
+.next-meetup,
+.media-members,
+.past-card{
+  background-color: lightgray;
+}
+
+.meetup-card {
+ padding: 16px;
+ margin-top: 70px;
+ border-radius: 0;
+}
+
+.base-footer {
+  border-top: 2px solid black;
+  padding-top: 36px;
+  margin: 48px 32px;
+  text-align: center;
+}
+
+.App-logo {
+  width: 500px;
+  margin-left: 50px;
+}
